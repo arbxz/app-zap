@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "325615101137",
+    "project_id": "zap-firebase-12f84",
+    "storage_bucket": "zap-firebase-12f84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325615101137:android:e822abd86648ecd16b91f0",
+        "android_client_info": {
+          "package_name": "com.arbxz.zap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRPDDP3TAPOnkkgvlXHJAB4REY-z4_NaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
